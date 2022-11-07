@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Suit">
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="Suit.Regular">
+        <item name="android:fontFamily">@font/suit_regular</item>
+    </style>
+
+    <style name="Suit.Bold">
+        <item name="android:fontFamily">@font/suit_bold</item>
+    </style>
+
+</resources>

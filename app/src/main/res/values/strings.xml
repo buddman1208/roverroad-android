@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoverRoad</string>
+    <string name="text_login">로그인</string>
+    <string name="text_register">회원 가입</string>
+    <string name="text_ques_no_password">계정이 없으신가요?</string>
+    <string name="text_id">아이디</string>
+    <string name="text_password">비밀번호</string>
+    <string name="text_name">이름</string>
+    <string name="text_age">나이</string>
+    <string name="text_go_register">가입하기</string>
+    <string name="text_privacy_policy">개인정보처리정책</string>
+    <string name="text_terms_of_service">이용 약관</string>
+    <string name="text_register_comment">\"가입하기\" 버튼을 누르면 ROVER ROAD의\n이용 약관 및 개인정보처리정책에 동의합니다.</string>
+
+    <string name="welcome_to_rover_road">ROVER ROAD에 오신 것을\n환영합니다!</string>
+</resources>
